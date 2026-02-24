@@ -1,4 +1,4 @@
-# 📊 Retail Sales Data Analysis – SQL Lab
+# 📊 Retail Sales Data Analysis – SQL
 📌 Project Overview
 
 This project demonstrates SQL queries used to explore and analyze retail sales data. It includes database creation, data retrieval, filtering, aggregation, grouping, and string functions to generate meaningful business insights.
